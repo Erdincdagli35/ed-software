@@ -1,0 +1,13 @@
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+}
+
+.project-group h4 {
+  border-left: 4px solid #38bdf8;
+  padding-left: 0.75rem;
+}

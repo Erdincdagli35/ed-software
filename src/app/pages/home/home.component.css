@@ -1,0 +1,11 @@
+section {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+}
+
+.profile-img {
+  max-width: 280px;   /* burayı oynayabilirsin */
+  width: 100%;
+  height: auto;
+}
